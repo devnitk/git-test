@@ -1,2 +1,2 @@
 # git-test
-Git test with branch Learning git commands
+Git test branch Learning git commands

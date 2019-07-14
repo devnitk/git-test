@@ -3,4 +3,4 @@ B
 B
 
 C
-hello. This file is for testing the git commA
+changes for reset for commit hello. This file is for testing the git commA

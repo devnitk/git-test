@@ -1,3 +1,6 @@
+B
+B
+B
 
 C
 hello. This file is for testing the git commA
